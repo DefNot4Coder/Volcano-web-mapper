@@ -1,4 +1,4 @@
-#Developer: Ashutosh Jha(DefNot4Coder)
+#Developer: Ashutosh Jha(realashu)
 import folium
 import pandas
 data = pandas.read_csv("Volcanoes.txt")
